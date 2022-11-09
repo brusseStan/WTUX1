@@ -1,0 +1,12 @@
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+button, a {
+    color: chartreuse;
+}
+a:hover {
+        color: aqua;
+}
+body {
+    background-color: greenyellow;
+}
